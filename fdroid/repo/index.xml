@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="default-repo-icon.png" name="کاردرمانی۱" pubkey="30820503308202eba0030201020204132ebc07300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3231303833303139323830395a170d3439303131353139323830395a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a0282020100baf0a1503764690c9327841eb5e72103b94cd10d0542691b4a2d9af26edb6b4e69233f764e6a0778dac582c12e16dee441bfc46fb42e6cb98c844c0f7524d5e3c6f38b5736c3a93360b57ebc3fd21ef350b5f354ee6294d5d996dcad1b7795a1248e9abc0af8d9ff9b4e2d23588c01912f4474562129468b6bafcd72bd4fc4e165a02d4b82313f0f12146a16bac27689f26c92c956a9b4c119df638dbf079fff3797c9def6147c4c5c558805e3842d2dcd7f148106be60f60121bfe7a71c19f9bee86ad391c427851d8f67e04eaf7ed2650944a86f7c70a5752ad557d5d1135e864fa72634f5d8a1f33bdc51df30088b39a24a6561aeec62d9c713b06bea1c5aec84d924b73943c9e8ca31461763db74739c3f0b6d928ee7f9313a15181d781aaf9dadf3f2c55c57cb10fbb17da487bb8d28e385004bb66c95a6033f61a4cf57fd83d26ebcb7d2ead2e2682d72d2167ec15b057fd743e997af27aa415992eba887cb36c893a296c982fbb92d1e48b56f54a8f57a252ff75a880532c4b748106b1e9c6bcff39dc90c93d484c221dc82b046cba411873c1b1c6cc6687171035f22c83e3fa14cd295c81c1850d530d03016f39a30c6cdcfb2914786922e7864ec937b75d0035b23ca4aedffb14b7eda7359bd7edcd4cc031b1e4fa998ece89dfff407298bdfaeccfd76586e7c953df8db2735ce6090554e95dd641cbc09151ce8470203010001a321301f301d0603551d0e0416041423b59f4d17382084fed2b544b3112cbbd60f9ca0300d06092a864886f70d01010b0500038202010063a36c422adec4c153338d5c6b091cd26bb7a53f7c2b63bcb179443a8844f6732f3a6e2e32544e5d4ec82f709d42a2cc6cbba61894645612da9fe273d71b2d97850caa2ac214765cdc571261227c180cab53af25c7d8247f56a4a869a02be1bb2ab2362edb3450d6ced5edc66dbe2a130a9a2eb817af17e2682d17fa6f6bf8458a634d5d69f1067626fce5aff2e2011d378b745de4ba0530245a6470c28d01b792e9954c0e19b1838cb2f6b5638bc7de961a33299a9b6930d55e864464d5a80f16cc2b52a37774a70e3622af896438694d84f3072c692435df6054659013d2df944ca7aa6cd723b72642093c81118e3b0cf2b2ee920dc4075de7accc6c704d79401bd94d4bf9e0f603c1d5c8fcba1eb685aaa756fad613412f7653bc95997c2a23fe9a3db3feae6825cbd96f4231a1b1fc0bd9621746766aa3feef642e4e45bad03c545b7a9bb415c8e47a8fc776cb44558dccd51a233edf2c862973cff598623d4b9a0bcc2ba9486cff3bfec8e91604ca84181d2b0d55df108294153f3a71cfd947abc2f3d419df1598e24cd4bd28de2ccdab8ef5e71b53c9fbcd5dfbde5325c9507c0f5b54a7d583e261a813c9c2f16b3fa164c4cbb59004a4142a9b20303a30b18d938cfd5b64f8b94dd8db8c2942eccdb8f86a956d807be54ef4fcba8fc94923278e74c8e366dae546b00392f78cb5964cef2deb15769676a6cd9b35701a" timestamp="1630352943" url="" version="21">
+		<description>کاردرمانی۱</description>
+		<mirror>https://github.com/hbsciw/repo1/raw/master/fdroid/repo/</mirror>
+	</repo>
+	<application id="com.bebi.family.baby.games.mg2">
+		<id>com.bebi.family.baby.games.mg2</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-30</lastupdated>
+		<name>Baby Games 2</name>
+		<summary></summary>
+		<icon>com.bebi.family.baby.games.mg2.14.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>14</marketvercode>
+		<package>
+			<version>2.1</version>
+			<versioncode>14</versioncode>
+			<apkname>bb.apk</apkname>
+			<hash type="sha256">e1265362ac10d8b50dbf6c369bfe2bbe5c37e7c0140dae5d6907ec0f520ef312</hash>
+			<size>55908263</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-08-30</added>
+			<sig>b14d3b18708e6ade3541cb72dce38bbb</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.android.vending.BILLING,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+	</application>
+	<application id="ge.bebi.balloon.pop.game">
+		<id>ge.bebi.balloon.pop.game</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-30</lastupdated>
+		<name>Balloon Pop</name>
+		<summary></summary>
+		<icon>ge.bebi.balloon.pop.game.130.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>130</marketvercode>
+		<package>
+			<version>13.0</version>
+			<versioncode>130</versioncode>
+			<apkname>a.apk</apkname>
+			<hash type="sha256">b49418da0d647621cf496f9e0c8b45e8ab6f13ef3c629f6c42a55abc92f19afe</hash>
+			<size>62373803</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-08-30</added>
+			<sig>72fe3ad185a6b077b19f237e31e27e32</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK,com.android.vending.BILLING,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+	</application>
+	<application id="com.edokiacademy.busyshapesandcolors">
+		<id>com.edokiacademy.busyshapesandcolors</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-30</lastupdated>
+		<name>Busy Shapes And Colors</name>
+		<summary></summary>
+		<icon>com.edokiacademy.busyshapesandcolors.27.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>27</marketvercode>
+		<package>
+			<version>1.6</version>
+			<versioncode>27</versioncode>
+			<apkname>cc.apk</apkname>
+			<hash type="sha256">f3b9439772e0795c4416f245e78baafb2d1b582303786b652b995baa8450ebc6</hash>
+			<size>70046144</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-08-30</added>
+			<sig>7999f7d3a21179679eae123d64fa0ed4</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,com.android.vending.BILLING</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+	</application>
+	<application id="com.bonbongame.learn.colors.and.shapes.kids.games">
+		<id>com.bonbongame.learn.colors.and.shapes.kids.games</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-30</lastupdated>
+		<name>Color Shape</name>
+		<summary></summary>
+		<icon>com.bonbongame.learn.colors.and.shapes.kids.games.30.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>30</marketvercode>
+		<package>
+			<version>1.5.4</version>
+			<versioncode>30</versioncode>
+			<apkname>aa.apk</apkname>
+			<hash type="sha256">35fb0a99427c81c32f69e11645c93d1bf98e02998b762ab2245b301c9a732f47</hash>
+			<size>84463634</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2021-08-30</added>
+			<sig>8c4dc6df86f29f7e1145a2881f4de3fd</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+			<uses-permission maxSdkVersion="28" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+	</application>
+	<application id="com.kidzooly.puzzles">
+		<id>com.kidzooly.puzzles</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-30</lastupdated>
+		<name>Kids Offline Games</name>
+		<summary></summary>
+		<icon>com.kidzooly.puzzles.23.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>23</marketvercode>
+		<package>
+			<version>1.21</version>
+			<versioncode>23</versioncode>
+			<apkname>com.kidzooly.puzzles_23_apps.evozi.com.apk</apkname>
+			<hash type="sha256">19f9b5df194d842b9e6f3ac3c07173cd36cdea9b9167161e702080b4a9d05f21</hash>
+			<size>62788131</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-08-30</added>
+			<sig>994cf1ad0f397cbaeedd469e25f4085f</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.kidzooly.puzzles.permission.C2D_MESSAGE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+	</application>
+	<application id="com.pixign.smart.puzzles">
+		<id>com.pixign.smart.puzzles</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-30</lastupdated>
+		<name>Smart Puzzles</name>
+		<summary></summary>
+		<icon>com.pixign.smart.puzzles.660.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>660</marketvercode>
+		<package>
+			<version>2.6.0</version>
+			<versioncode>660</versioncode>
+			<apkname>b.apk</apkname>
+			<hash type="sha256">d3fad89b1465c1487b3088ccf63cf085c451bdce256167aa5c97bd344ce7402f</hash>
+			<size>12494497</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-08-30</added>
+			<sig>3841d6be446cd74aa29f586eefe1c12e</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.android.vending.BILLING,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.providers.gsf.permission.READ_GSERVICES</permissions>
+		</package>
+	</application>
+	<application id="com.gma.water.connect.puzzle">
+		<id>com.gma.water.connect.puzzle</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-30</lastupdated>
+		<name>Water Connect Puzzle</name>
+		<summary></summary>
+		<icon>com.gma.water.connect.puzzle.95.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>95</marketvercode>
+		<package>
+			<version>3.0.2</version>
+			<versioncode>95</versioncode>
+			<apkname>com.gma.water.connect.puzzle_112_apps.evozi.com.apk</apkname>
+			<hash type="sha256">9973706e9e4176d856e7e6af67c060d168a301239b9c6551808ea9bc07dc3491</hash>
+			<size>50108496</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2021-08-30</added>
+			<sig>f726fd3458e4ba3274aff67528ac8581</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.alarm.permission.SET_ALARM,com.android.vending.BILLING,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="18" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+	</application>
+	<application id="com.companyname.differences2">
+		<id>com.companyname.differences2</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-30</lastupdated>
+		<name>تفاوت ها2</name>
+		<summary></summary>
+		<icon>com.companyname.differences2.2000000.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2000000</marketvercode>
+		<package>
+			<version>2.0.0</version>
+			<versioncode>2000000</versioncode>
+			<apkname>c.apk</apkname>
+			<hash type="sha256">147d3f80802fa1c1b23b5dc539e5764ed7568da32bf7e8ba2b23c91d13d29f25</hash>
+			<size>19622390</size>
+			<sdkver>7</sdkver>
+			<targetSdkVersion>16</targetSdkVersion>
+			<added>2021-08-30</added>
+			<sig>83d85d7c8dd33997ce0459d1087c52d9</sig>
+			<nativecode>armeabi,armeabi-v7a,mips,x86</nativecode>
+		</package>
+	</application>
+</fdroid>

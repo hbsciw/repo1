@@ -1,0 +1,477 @@
+{
+  "repo": {
+    "timestamp": 1630352943000,
+    "version": 21,
+    "name": "\u06a9\u0627\u0631\u062f\u0631\u0645\u0627\u0646\u06cc\u06f1",
+    "icon": "default-repo-icon.png",
+    "address": null,
+    "description": "\u06a9\u0627\u0631\u062f\u0631\u0645\u0627\u0646\u06cc\u06f1",
+    "mirrors": [
+      "https://github.com/hbsciw/repo1/raw/master/fdroid/repo/"
+    ]
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "suggestedVersionCode": "14",
+      "license": "Unknown",
+      "name": "Baby Games 2",
+      "added": 1630352745000,
+      "icon": "com.bebi.family.baby.games.mg2.14.png",
+      "packageName": "com.bebi.family.baby.games.mg2",
+      "lastUpdated": 1630352937000
+    },
+    {
+      "suggestedVersionCode": "130",
+      "license": "Unknown",
+      "name": "Balloon Pop",
+      "added": 1630352739000,
+      "icon": "ge.bebi.balloon.pop.game.130.png",
+      "packageName": "ge.bebi.balloon.pop.game",
+      "lastUpdated": 1630352934000
+    },
+    {
+      "suggestedVersionCode": "27",
+      "license": "Unknown",
+      "name": "Busy Shapes And Colors",
+      "added": 1630352746000,
+      "icon": "com.edokiacademy.busyshapesandcolors.27.png",
+      "packageName": "com.edokiacademy.busyshapesandcolors",
+      "lastUpdated": 1630352940000
+    },
+    {
+      "suggestedVersionCode": "30",
+      "license": "Unknown",
+      "name": "Color Shape",
+      "added": 1630352752000,
+      "icon": "com.bonbongame.learn.colors.and.shapes.kids.games.30.png",
+      "packageName": "com.bonbongame.learn.colors.and.shapes.kids.games",
+      "lastUpdated": 1630352935000
+    },
+    {
+      "suggestedVersionCode": "23",
+      "license": "Unknown",
+      "name": "Kids Offline Games",
+      "added": 1630352748000,
+      "icon": "com.kidzooly.puzzles.23.png",
+      "packageName": "com.kidzooly.puzzles",
+      "lastUpdated": 1630352942000
+    },
+    {
+      "suggestedVersionCode": "660",
+      "license": "Unknown",
+      "name": "Smart Puzzles",
+      "added": 1630352742000,
+      "icon": "com.pixign.smart.puzzles.660.png",
+      "packageName": "com.pixign.smart.puzzles",
+      "lastUpdated": 1630352936000
+    },
+    {
+      "suggestedVersionCode": "95",
+      "license": "Unknown",
+      "name": "Water Connect Puzzle",
+      "added": 1630352754000,
+      "icon": "com.gma.water.connect.puzzle.95.png",
+      "packageName": "com.gma.water.connect.puzzle",
+      "lastUpdated": 1630352941000
+    },
+    {
+      "suggestedVersionCode": "2000000",
+      "license": "Unknown",
+      "name": "\u062a\u0641\u0627\u0648\u062a \u0647\u06272",
+      "added": 1630352741000,
+      "icon": "com.companyname.differences2.2000000.png",
+      "packageName": "com.companyname.differences2",
+      "lastUpdated": 1630352938000
+    }
+  ],
+  "packages": {
+    "com.bebi.family.baby.games.mg2": [
+      {
+        "added": 1630352937000,
+        "apkName": "bb.apk",
+        "hash": "e1265362ac10d8b50dbf6c369bfe2bbe5c37e7c0140dae5d6907ec0f520ef312",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.bebi.family.baby.games.mg2",
+        "sig": "b14d3b18708e6ade3541cb72dce38bbb",
+        "signer": "9ec260d966be7f966f8bbddf31cff47442c0b562ce3682b685f971c926efece0",
+        "size": 55908263,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 14,
+        "versionName": "2.1"
+      }
+    ],
+    "com.bonbongame.learn.colors.and.shapes.kids.games": [
+      {
+        "added": 1630352935000,
+        "apkName": "aa.apk",
+        "hash": "35fb0a99427c81c32f69e11645c93d1bf98e02998b762ab2245b301c9a732f47",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.bonbongame.learn.colors.and.shapes.kids.games",
+        "sig": "8c4dc6df86f29f7e1145a2881f4de3fd",
+        "signer": "ad9ecd868301bbb35356355d4331d63ee7b8e2aaf5800d751e9070d353137b52",
+        "size": 84463634,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            28
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            28
+          ]
+        ],
+        "versionCode": 30,
+        "versionName": "1.5.4"
+      }
+    ],
+    "com.companyname.differences2": [
+      {
+        "added": 1630352938000,
+        "apkName": "c.apk",
+        "hash": "147d3f80802fa1c1b23b5dc539e5764ed7568da32bf7e8ba2b23c91d13d29f25",
+        "hashType": "sha256",
+        "minSdkVersion": 7,
+        "nativecode": [
+          "armeabi",
+          "armeabi-v7a",
+          "mips",
+          "x86"
+        ],
+        "packageName": "com.companyname.differences2",
+        "sig": "83d85d7c8dd33997ce0459d1087c52d9",
+        "signer": "10ac5b7d0287e0929c99013da02a7d1e21306f2a6d8fbbde83e1ce7870c9350c",
+        "size": 19622390,
+        "targetSdkVersion": 16,
+        "versionCode": 2000000,
+        "versionName": "2.0.0"
+      }
+    ],
+    "com.edokiacademy.busyshapesandcolors": [
+      {
+        "added": 1630352940000,
+        "apkName": "cc.apk",
+        "hash": "f3b9439772e0795c4416f245e78baafb2d1b582303786b652b995baa8450ebc6",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.edokiacademy.busyshapesandcolors",
+        "sig": "7999f7d3a21179679eae123d64fa0ed4",
+        "signer": "154b907fc679e990c96685a9eba3222a89c850ec69e54113463e3f9ab990e470",
+        "size": 70046144,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 27,
+        "versionName": "1.6"
+      }
+    ],
+    "com.gma.water.connect.puzzle": [
+      {
+        "added": 1630352941000,
+        "apkName": "com.gma.water.connect.puzzle_112_apps.evozi.com.apk",
+        "hash": "9973706e9e4176d856e7e6af67c060d168a301239b9c6551808ea9bc07dc3491",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.gma.water.connect.puzzle",
+        "sig": "f726fd3458e4ba3274aff67528ac8581",
+        "signer": "ff339d4b3673324341a1043653c5b272d17cf5f60c4074364fd9d84976e28267",
+        "size": 50108496,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            18
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "com.android.alarm.permission.SET_ALARM",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            18
+          ]
+        ],
+        "versionCode": 95,
+        "versionName": "3.0.2"
+      }
+    ],
+    "com.kidzooly.puzzles": [
+      {
+        "added": 1630352942000,
+        "apkName": "com.kidzooly.puzzles_23_apps.evozi.com.apk",
+        "hash": "19f9b5df194d842b9e6f3ac3c07173cd36cdea9b9167161e702080b4a9d05f21",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.kidzooly.puzzles",
+        "sig": "994cf1ad0f397cbaeedd469e25f4085f",
+        "signer": "606cc2d1b82bfe52bdc2a2fca15448debe86382589ea85fbab6d4df3c66c4b7c",
+        "size": 62788131,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.kidzooly.puzzles.permission.C2D_MESSAGE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ]
+        ],
+        "versionCode": 23,
+        "versionName": "1.21"
+      }
+    ],
+    "com.pixign.smart.puzzles": [
+      {
+        "added": 1630352936000,
+        "apkName": "b.apk",
+        "hash": "d3fad89b1465c1487b3088ccf63cf085c451bdce256167aa5c97bd344ce7402f",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "packageName": "com.pixign.smart.puzzles",
+        "sig": "3841d6be446cd74aa29f586eefe1c12e",
+        "signer": "d7b3af880d403e2f84a8566b626633331753d0afca74843c2d550231cc0b6bfd",
+        "size": 12494497,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 660,
+        "versionName": "2.6.0"
+      }
+    ],
+    "ge.bebi.balloon.pop.game": [
+      {
+        "added": 1630352934000,
+        "apkName": "a.apk",
+        "hash": "b49418da0d647621cf496f9e0c8b45e8ab6f13ef3c629f6c42a55abc92f19afe",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "ge.bebi.balloon.pop.game",
+        "sig": "72fe3ad185a6b077b19f237e31e27e32",
+        "signer": "f0d273ca6666f96fded7f2beabeba559dc23a10af49c625921470d91c06f06a6",
+        "size": 62373803,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 130,
+        "versionName": "13.0"
+      }
+    ]
+  }
+}
